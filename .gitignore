@@ -1,0 +1,11 @@
+*~
+*.pyc
+*.swp
+\#*\#
+
+MANIFEST
+README.html
+
+build/
+dist/
+django_litetest.egg-info/
